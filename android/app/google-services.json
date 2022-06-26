@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "903590250434",
+    "firebase_url": "https://likes-abd63-default-rtdb.firebaseio.com",
+    "project_id": "likes-abd63",
+    "storage_bucket": "likes-abd63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903590250434:android:864ad2a8a20a9c6a2ab85b",
+        "android_client_info": {
+          "package_name": "com.example.likes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903590250434-biiiulc8q7j3vgc7pimkng1srq8lr4la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW3twQ9YeANu3MkobcwsplhECEUmfCEvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903590250434-biiiulc8q7j3vgc7pimkng1srq8lr4la.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "903590250434-6cj93q62uuu6qs63591vlipuetici1gl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.likes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
